@@ -19,12 +19,12 @@ To run **El-Zero-Template-Two** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Mahrous-Gamal/Kasper.git
+sudo git clone https://github.com/Mahrous-Gamal/El-Zero-Template-Two.git
 ```
 Windows:
 
 ```bash
-git clone https://github.com/Mahrous-Gamal/Kasper.git
+git clone https://github.com/Mahrous-Gamal/El-Zero-Template-Two.git
 ```
 
 ### Contact
