@@ -1,4 +1,4 @@
-# Kasper
+# El-Zero-Template-Two
 - Simple Website From El Zero Using HTML, CSS.
 - With a beautiful and pleasant user interface.
 
@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Kasper** locally, run this command on your git bash:
+To run **El-Zero-Template-Two** locally, run this command on your git bash:
 
 Linux and macOS:
 
